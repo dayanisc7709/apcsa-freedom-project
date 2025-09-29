@@ -1,8 +1,8 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Godot**
 
-## Project: **X**
+## Project: **2D game with favorie media tat involves horror or adventure elements**
 
 ---
 
