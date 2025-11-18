@@ -22,7 +22,7 @@ For the last thing I had learned, it was about the camera of the game. Yet anoth
 
 
 # Engineering Design Process
-I think right now I'm at the second stage of my EDP process, since I've just now started to get a grasp of my tool. I've decided what I'm going to do for my tool that I've picked, but now I need to do some research and how I'll be able to do the project idea that I want to do. 
+I think right now I'm at the second stage of my EDP process, since I've just now started to get a grasp of my tool. I've decided what I'm going to do for my tool that I've picked, but now I need to do some research and how I'll be able to do the project idea that I want to do by learning all of the different functions and components and how they all work.
 
 # Skills
 
