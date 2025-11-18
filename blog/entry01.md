@@ -5,7 +5,12 @@
 
 The tool I chose for my Freedom Project this time around is called Godot. When given the liberty to do something that we wanted, I thought of making another game, which would hopefully be better than the last one made from my previous Freedom Project. From the list, it appeared there were a few options for this, but two of these were pointed out by Mr. Mueller. That was [Unity](https://unity.com/) and Godot, both were relatively good for creating games, so those two caught my eye. Picking one of the two was kind of easy because it was said that Godot was more up to date with their updates than Unity and seemed to be easier to use. My mind was locked onto these two, so I made Godot my main tool and Unity would be my backup incase that didn't go well.
 
+# How I've tinkered with my tool
 
+# Engineering Design Process
+I think right now I'm at the second stage of my EDP process, since I've just now started to get a grasp of my tool. I've decided what I'm going to do for my tool that I've picked, but now I need to do some research and how I'll be able to do the project idea that I want to do. 
+
+# Skills
 
 
 [Next](entry02.md)
