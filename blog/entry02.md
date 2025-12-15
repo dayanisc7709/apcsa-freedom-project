@@ -1,7 +1,13 @@
 # Entry 2
-##### X/X/XX
+##### 12/15/25
 
-Text
+### How I've tinkered with my tool
+
+What I've done so far is I've been able to make collectable items, moving platforms and a game map.
+
+### Winter Break FP
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
