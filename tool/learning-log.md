@@ -42,7 +42,40 @@
 * Sprite2D - Will create a body to place your sprite in
 * Will have to be placed as a sprite so that the objects are able to be moved
 * CollisionShape2D - Add a collision to a 2D shape
-* 
+* One way collision enabled will allow your platform to be able to hop onto it but only from one direction
+
+  <img width="83" height="94" alt="image" src="https://github.com/user-attachments/assets/b5ffc7ba-d2d9-48da-be96-e0006f7ee357" />
+
+* The direction the arrow faces is the direction that the player isn't able to pass through it
+* If it goes up, it will pass, it goes down, it can't pass through it
+* Changing z-index of the player to be higher than the others will allow for it to be shown in front of the player
+* AnimationPlayer will actually let you animate the platform so it moves side to side
+* Many keys pop up on the side, which represents keyframes
+* Clicking the one next to position is the one that lets it move side to side
+* What happens if you click the others and what do they do?
+* If animation only goes to one direction, clicking loop will only make it go that way
+* Ping-pong loop allows for it to go back to back, like the name suggests
+* The length of this can be changed by moving keyframe
+
+<img width="966" height="192" alt="image" src="https://github.com/user-attachments/assets/1ea0f76c-d1e8-4629-ac54-f77083d8e2dd" />
+
+* Area2D - Type of node used when you don't want to collide w/ other objects, but just detect collisions
+* AnimatedSprite2D - Node used to allow you to animate your sprites
+* Collectable item will need a CollisionShape2D as well
+* Script needs to be added inorder for player to pick up coin
+* Clicking the collectable item, then node will show the many built-in signals you can use
+* Body_entered - Signal that is triggered when physics body touches area
+* When checking for collisions, it will check for every body rather than just the players
+* The player's physics layer number can be changed to prevent this
+  
+* <img width="397" height="244" alt="image" src="https://github.com/user-attachments/assets/076b24d2-ac71-4b08-9fd3-9e0a9730ce09" />
+
+* For the item, the mask layer number will be needed to be changed instead
+* With that, it will only detect collisions from player
+* Adding the `queue_Free()` function will remove the item from the map
+* For next time, I want to be able to add scores, how to respawn or a spawnpoint
+* I also wonder if this is finally where I'll have to do coding?
+  
 
 <!-- 
 * Links you used today (websites, videos, etc)
