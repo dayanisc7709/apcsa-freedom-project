@@ -107,7 +107,40 @@
 * For next time, I want to see how you would be able to make a checkpoint
 
   ### 1/3/26
-  
+
+* This time, learning to make checkpoints
+* Using this video to help me learn more about how they work: https://www.youtube.com/watch?v=BJdRBp0IKmQ
+* There seems to be a few different ways to create checkpoints
+* Going through different sources, some need stored or saved data
+* For this one in particular, it needed a global/autoload script
+* Autoload script - Scripts that will run as soon as the game loads and just continues to run
+* To make it known that the script is an autoload one, it has to be changed through project settings
+
+<img width="570" height="112" alt="Screenshot 2026-01-04 11 31 50 PM" src="https://github.com/user-attachments/assets/1f387dfd-37c6-46f1-a6cc-4cbd49836b8f" />
+
+* Set of options appear and global will need to be picked
+* Under that, there will be an auto load option
+* That's gonna be the place where the script goes to work its function
+* Script will need two variable: `checkpoint_pos` and `previous_checkpoint_node`
+* The `checkpoint_pos` will let us know if the player should be able to spawn or not at checkpoint based on if the variable passes the number below or not
+* `previous_checkpoint_node` holds the node that the player last reached
+
+* <img width="508" height="113" alt="Screenshot 2026-01-04 234549" src="https://github.com/user-attachments/assets/c1d7eb41-3bea-4faf-948f-e24530c22550" />
+
+* Visual of the checkpoint will need to be placed now so the script is able to start functioning
+* It will also need a collision layer in order for it to recgonize when its being passed through
+* Marker2D node is added to hold the position value of where player should spawn
+* Checkpoint will need another script
+* It needs a `body_entered` signal which will be under the node section
+* The script checks for if the marker and if the global checkpoint match up
+* If they are equal, then the checkpoint is working currently
+* With the visual check point, there's two frames of it
+* When checkpoint is active, script will change to the second sprite
+* In another function, the global checkpoint and default value will need to be checked again
+* If not equal this time, then a checkpoint was reached
+* Players global position is set to the checkpoint position
+* For next time, I wanna see how to be able how to add enemies or maybe some text
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
