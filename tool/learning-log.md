@@ -75,6 +75,38 @@
 * Adding the `queue_Free()` function will remove the item from the map
 * For next time, I want to be able to add scores, how to respawn or a spawnpoint
 * I also wonder if this is finally where I'll have to do coding?
+
+  ### 1/2/26
+
+* From the video, we're learning how to deal with player falling out map and dying
+* Camera can have a limit of where it can and can't go
+* If the limit is trying to be surpassed, the camera won't move until it goes back within bounds
+* Useful for if the plauer dies, the camera won't be stuck in an infinite loop of going down
+* To make the player actually die, there needs to be a kill zone
+* A new scene needs to be created in order to do this
+* This kill zone now needs a shape so that it knows when it's collided with it
+* Once shape is added, it will need a script so that it does as it's meant to
+
+<img width="1003" height="260" alt="Screenshot 2026-01-04 223329" src="https://github.com/user-attachments/assets/65ed90c2-882b-4ae6-a69f-dde388c4d5c5" />
+
+* A timer is needed so that it adds some delay before restarting
+* When timer runs out, it will need more code for it to make an action
+* Once timer has no more time on the clock, it will reload the scene
+* Order of what happens with the script:
+  * Condition for it to work it that player enters kiil zone
+  * Death message appears on screen
+  * Timer starts going
+  * When over, scene reloads
+  * Restarts game and it respawns the player
+ 
+<img width="411" height="305" alt="Screenshot 2026-01-04 225025" src="https://github.com/user-attachments/assets/b47d92ee-ee7f-44a1-a3fb-fb7ed37a28e5" />
+
+* This ended up being the entire script for it
+* I wonder how you can decorate the death screen or add stuff to it?
+* Maybe a button to be able to restart in the future rather than having a timer for it
+* For next time, I want to see how you would be able to make a checkpoint
+
+  ### 1/3/26
   
 
 <!-- 
