@@ -9,7 +9,7 @@
 
 #### MVP
 
-- [ ] Add enemie(s) to the game (deadline: Feb 20)
+- [ ] Add enemy/ies to the game (deadline: Feb 20)
   - [ ] Find sprite sheet for placeholder enemies (deadline: Feb 15)
   - [ ] Write code for them to be able to move around (deadline: Feb 16)
   - [ ] Add teleportation to death screen if player and enemy collide (deadline: Feb 19)
