@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Godot
+## Product: 2d platformer game
 
 ---
 
@@ -9,13 +9,24 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] Add enemie(s) to the game (deadline: Feb 20)
+  - [ ] Find sprite sheet for placeholder enemies (deadline: Feb 15)
+  - [ ] Write code for them to be able to move around (deadline: Feb 16)
+  - [ ] Add teleportation to death screen if player and enemy collide (deadline: Feb 19)
+- [ ] Add text that will explain how to proceed in game (Deadline: Feb 23)
+- [ ] Finish sprite sheets for player and obstacles (Deadline: Mar 15)
+  - [ ] Finish outline/sketch (Deadline: Mar 10)
+  - [ ] Finish coloring (Deadline: Mar 13)
+  - [ ] Add any finishing touches to sprite sheets (Deadline: Mar 15)
+- [ ] Make a quick background for game (Deadline: Mar 16) 
+- [ ] Switch placeholder sprite sheets to new ones and apply background (Deadline: Mar 18) 
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+- [ ] If there's time: Make another level
+- [ ] Changing death screen to have more details in it
+- [ ] Add some sort of score of highscore
+
 
 
 <!-- EXAMPLE
