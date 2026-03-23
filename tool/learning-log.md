@@ -141,6 +141,9 @@
 * Players global position is set to the checkpoint position
 * For next time, I wanna see how to be able how to add enemies or maybe some text
 
+### 03/23/26
+* Working on figuring out how to make background and layout for the game
+* There's two ways to do this, pixel style or a smooth style, don't know which to choose
 
 <!-- 
 * Links you used today (websites, videos, etc)
