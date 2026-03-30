@@ -9,21 +9,22 @@
 
 #### MVP
 
-- [ ] Add enemy/ies to the game (deadline: Feb 20)
-  - [ ] Find sprite sheet for placeholder enemies (deadline: Feb 15)
-  - [ ] Write code for them to be able to move around (deadline: Feb 16)
-  - [ ] Add teleportation to death screen if player and enemy collide (deadline: Feb 19)
-- [ ] Add text that will explain how to proceed in game (Deadline: Feb 23)
-- [ ] Finish sprite sheets for player and obstacles (Deadline: Mar 15)
-  - [ ] Finish outline/sketch (Deadline: Mar 10)
-  - [ ] Finish coloring (Deadline: Mar 13)
-  - [ ] Add any finishing touches to sprite sheets (Deadline: Mar 15)
-- [ ] Make a quick background for game (Deadline: Mar 16) 
-- [ ] Switch placeholder sprite sheets to new ones and apply background (Deadline: Mar 18) 
+- [ ] Finish sprite sheets for player and obstacles (Deadline: Apr 7)
+  - [ ] Finish outline/sketch (Deadline: Apr 4)
+  - [ ] Finish coloring (Deadline: Apr 6)
+  - [ ] Add any finishing touches to sprite sheets (Deadline: Apr 7)
+- [ ] Make a quick background for game (Deadline: Apr 5) 
+- [ ] Switch placeholder sprite sheets to new ones and apply background (Deadline: Apr 7)
+- [ ] Add enemy/ies to the game (deadline: Apr 10)
+  - [ ] Find sprite sheet for placeholder enemies (deadline: Apr 8)
+  - [ ] Write code for them to be able to move around (deadline: Apr 9)
+  - [ ] Add teleportation to death screen if player and enemy collide (deadline: Apr 10)
+  
 
 #### Beyond MVP
 
-- [ ] If there's time: Make another level
+- [ ] If times allows: Add text that will explain how to proceed in game 
+- [ ] Make another level
 - [ ] Changing death screen to have more details in it
 - [ ] Add some sort of score of highscore
 
