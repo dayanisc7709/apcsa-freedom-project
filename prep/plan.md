@@ -23,10 +23,12 @@
 
 #### Beyond MVP
 
-- [ ] If times allows: Add text that will explain how to proceed in game 
-- [ ] Make another level
-- [ ] Changing death screen to have more details in it
-- [ ] Add some sort of score of highscore
+- [ ] Add enemies that move around
+- [ ] Add a few more levels
+- [ ] Moving platforms in the newer levels
+- [ ] If time allows: Add some item to collect, like a coin possibly
+
+
 
 
 
