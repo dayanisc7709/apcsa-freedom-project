@@ -23,8 +23,9 @@
 
 #### Beyond MVP
 
-- [ ] Add enemies that move around
+From most important to least important:
 - [ ] Add a few more levels
+- [ ] Add enemies that move around 
 - [ ] Moving platforms in the newer levels
 - [ ] If time allows: Add some item to collect, like a coin possibly
 
