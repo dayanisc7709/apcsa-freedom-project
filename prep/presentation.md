@@ -1,10 +1,12 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Talk about how last year Freedom Project gave idea to make whatever and in turn, that gave a game idea
+* Did not go as well as planned, so wanted to try again this year to see if there was improvement
+* Different platform and a new slate given to start from scratch again and did improve
 
 ## Product
-* 
+* Show the game off with a short video, a gif with no audio
 
 ## Process
 * 
