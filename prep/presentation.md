@@ -9,10 +9,14 @@
 * Show the game off with a short video, a gif with no audio
 
 ## Process
-* 
+* Despite being told that learning Godot was easy, it was scary at first to learn more
+* Tons of videos were up for Godot, with it being a big platform and all
+* With those, it soon became clearer what to do and good explanations
 
 ## Conclusion
+* Time Management
 * 
+* Permanent URL to the game at the bottom
 
 <!-- EXAMPLE
 
