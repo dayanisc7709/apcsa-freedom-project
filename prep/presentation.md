@@ -17,7 +17,7 @@
 
 ## Conclusion
 * Time Management (Wanted to make something bigger, but didn't have the time, project was simplified, but was still something enjoyable to make)
-* Permanent URL to the game at the bottom
+* Permanent URL to the game video at the bottom
 
 <!-- EXAMPLE
 
