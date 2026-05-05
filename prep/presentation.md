@@ -3,7 +3,7 @@
 ## Hook
 * Talk about how last year Freedom Project gave idea to make whatever and in turn, that gave a game idea
 * Did not go as well as planned, so wanted to try again this year to see if there was improvement
-* Different platform and a new slate given to start from scratch again and did improve
+* Different platform and a new slate given to start from scratch again and did improve but had to be simplified
 
 ## Product
 * Show the game off with a short video, a gif with no audio
@@ -11,11 +11,12 @@
 ## Process
 * Despite being told that learning Godot was easy, it was scary at first to learn more
 * Tons of videos were up for Godot, with it being a big platform and all
-* With those, it soon became clearer what to do and good explanations
+* With those, it soon became clearer what to do and good explanations:
+    * Show how to make collisions 
+    * Present how tilemap is used 
 
 ## Conclusion
-* Time Management
-* 
+* Time Management (Wanted to make something bigger, but didn't have the time, project was simplified, but was still something enjoyable to make)
 * Permanent URL to the game at the bottom
 
 <!-- EXAMPLE
