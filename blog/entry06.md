@@ -11,9 +11,17 @@ Giving my elevator pitch was surprisingly easier this time as well. It was scary
 
 ### Skills
 
-#### 
+#### Communication
 
-#### 
+This time around I was able to work more on my commnuication skills. My attempts in presenting improved after the last time I presented. I was able to get prepared and memorize more. With all this experience, in the future, it'll help me a lot when I get to do more presentations like this. All I have to do now is to come up with better ways to end off my presentations, so it isn't ended off on something awkward. Other than that, I've gotten to a point where I can present much better than years past.
+
+#### Time Management
+
+When presentations came to be, I was worried. But thankfully, I set my free time aside to prepare for both presentations. I'm pretty sure I got to put more effort into it because of that, both keeping it appealing and remembering what I had in script. So I was able to focus on my presentation with the time I had. There was less time for me on the Expo, but even with that, I had something to show because of my previous in class presentation. That made it easier for me to prepare and hopefully, I can put this to use in future presentations.
+
+#### Sources
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
