@@ -21,7 +21,9 @@ When presentations came to be, I was worried. But thankfully, I set my free time
 
 #### Sources
 
+[APCSA Presentation Plan](https://github.com/dayanisc7709/apcsa-freedom-project/blob/main/prep/presentation.md)
 
+[APCSA FP Presentation](https://docs.google.com/presentation/d/1wWtr6ZP8tRJ6hBpIM7LyAJMq86myMpDdu-uuOzVjP5k/edit?slide=id.g3db684f5908_0_15#slide=id.g3db684f5908_0_15)
 
 [Previous](entry05.md) | [Next](entry07.md)
 
