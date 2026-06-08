@@ -18,9 +18,12 @@ For my project, I chose to independently study **Godot** in order to help me mak
 * Promotes both doing art and coding
 * Focuses on being a visually appealing game
 * Improvement from last game, more inspo help
+
 ##### CONS
 * Not too long of a game
-* 
+* Can seem difficult at first
+* Simplistic layout in a way
+* POV can't be changed if moving around
 
 
 ## Blog
