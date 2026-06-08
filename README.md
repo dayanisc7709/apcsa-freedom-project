@@ -1,21 +1,25 @@
 # APCSA Freedom Project
-by **X**
+by **Dayanis Chora**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For my project, I chose to independently study **Godot** in order to help me make **a 2D Platformer Game**.
 
 ## Links
 
-[Product]()
+[Product](https://screenapp.io/app/v/qRWAfuvz9R)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1wWtr6ZP8tRJ6hBpIM7LyAJMq86myMpDdu-uuOzVjP5k/edit)
 
 ## Implications
 ##### PROS
-* 
+* Helps to be an inspiration to others
+* Promotes both doing art and coding
+* Focuses on being a visually appealing game
+* Improvement from last game, more inspo help
 ##### CONS
+* Not too long of a game
 * 
 
 
