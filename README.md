@@ -23,7 +23,7 @@ For my project, I chose to independently study **Godot** in order to help me mak
 * Not too long of a game
 * Can seem difficult at first
 * Simplistic layout in a way
-* POV can't be changed if moving around
+* Could look as if it can be a handful to code
 
 
 ## Blog
