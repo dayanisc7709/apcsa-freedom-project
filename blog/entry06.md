@@ -3,7 +3,7 @@
 
 ### Takeaways from my in-class presentation
 
-I think my presentation in class was a little less nerve-wrecking than last time. I had prepared what I wanted to say in advance and recited it multiple times. This time I think I did a better job at that, so that's what eased my nerves more. Not only that, but I'm pretty sure I had more eye contact this time as well, which helped me keep more of the audience's attention. 
+My presentation in class was a little less nerve-wrecking than how the last time felt. I had prepared what I wanted to say in advance and recited it multiple times. This time I think I did a better job at that, so that's what eased my nerves more. Not only that, but I'm pretty sure I had more eye contact with people this time as well, which helped me keep more of the audience's attention. Although, I did need more 
 
 ### Takeaways from my EXPO Elevator Pitch
 
