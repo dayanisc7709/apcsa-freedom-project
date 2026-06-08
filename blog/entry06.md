@@ -19,11 +19,13 @@ This time around I was able to work more on my commnuication skills. My attempts
 
 When presentations came to be, I was worried. But thankfully, I set my free time aside to prepare for both presentations. I'm pretty sure I got to put more effort into it because of that, both keeping it appealing and remembering what I had in script. So I was able to focus on my presentation with the time I had. There was less time for me on the Expo, but even with that, I had something to show because of my previous in class presentation. That made it easier for me to prepare and hopefully, I can put this to use in future presentations.
 
-#### Sources
+### Sources
 
 [APCSA Presentation Plan](https://github.com/dayanisc7709/apcsa-freedom-project/blob/main/prep/presentation.md)
 
 [APCSA FP Presentation](https://docs.google.com/presentation/d/1wWtr6ZP8tRJ6hBpIM7LyAJMq86myMpDdu-uuOzVjP5k/edit?slide=id.g3db684f5908_0_15#slide=id.g3db684f5908_0_15)
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
